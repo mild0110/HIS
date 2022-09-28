@@ -8,7 +8,7 @@
         <!-- Logo -->
         <li>
           <div class="logo-wrapper waves-light">
-            <a href="#"><img src="../public/img/logo.png" class="img-fluid flex-center"></a>
+            <a href="#"><img src="../../public/img/logo.png" class="img-fluid flex-center"></a>
           </div>
         </li>
         <!--/. Logo -->
