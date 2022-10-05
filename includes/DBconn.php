@@ -14,7 +14,7 @@ class DBconnection{
     $conn = NULL;
 
         try{
-            $conn = new PDO("mysql:host=sql.freedb.tech;dbname=freedb_mildsheet", "freedb_milds", "Fj28*QVHjjngqW&");
+            $conn = new PDO("mysql:host=sql.freedb.tech;dbname=freedb_mildsheet", "freedb_milds", "s&g7Mc%8W#FUmde");
             $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
             } catch(PDOException $e){
                 echo 'ERROR: ' . $e->getMessage();
